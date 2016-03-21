@@ -1,0 +1,18 @@
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.pdb
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.dll
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.dll
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.pdb

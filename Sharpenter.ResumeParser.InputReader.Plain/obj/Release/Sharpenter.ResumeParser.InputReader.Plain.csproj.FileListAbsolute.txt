@@ -1,0 +1,14 @@
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\bin\Release\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\bin\Release\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\bin\Release\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\bin\Release\Sharpenter.ResumeParser.Model.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\obj\Release\Sharpenter.ResumeParser.InputReader.Plain.csprojResolveAssemblyReference.cache
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\obj\Release\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\obj\Release\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\bin\Release\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\bin\Release\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\bin\Release\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\bin\Release\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\obj\Release\Sharpenter.ResumeParser.InputReader.Plain.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\obj\Release\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\obj\Release\Sharpenter.ResumeParser.InputReader.Plain.pdb

@@ -1,0 +1,28 @@
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.csprojResolveAssemblyReference.cache
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\Independent Study\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.dll
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.csprojResolveAssemblyReference.cache
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb

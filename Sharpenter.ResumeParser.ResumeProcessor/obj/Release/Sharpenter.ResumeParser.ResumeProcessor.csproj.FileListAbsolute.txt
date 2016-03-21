@@ -1,0 +1,16 @@
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Sharpenter.ResumeParser.Model.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Sharpenter.ResumeParser.Model.pdb
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.ResumeProcessor\obj\Release\Sharpenter.ResumeParser.ResumeProcessor.csprojResolveAssemblyReference.cache
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.ResumeProcessor\obj\Release\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\ResumeParser_CodeProject\Sharpenter.ResumeParser.ResumeProcessor\obj\Release\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\obj\Release\Sharpenter.ResumeParser.ResumeProcessor.csprojResolveAssemblyReference.cache
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\obj\Release\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\obj\Release\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Newtonsoft.Json.dll
+F:\Independent Study\ResumeParser\ResumeParser\Sharpenter.ResumeParser.ResumeProcessor\bin\Release\Newtonsoft.Json.xml
