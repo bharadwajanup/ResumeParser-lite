@@ -11,7 +11,7 @@ namespace Sharpenter.ResumeParser.ResumeProcessor.Helpers
     {
         public static String preserveAlphaNumeric(String str)
         {
-            Regex rgx = new Regex("[^a-zA-Z0-9 -,.:]");
+            Regex rgx = new Regex(@"[^A-Za-z0-9~!#$^&*()_+|`\-=\\{}:"">?<\[\];',./ ]");
             str = rgx.Replace(str, "");
             str = str.Trim();
             return str;

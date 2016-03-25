@@ -16,3 +16,8 @@ C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpent
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.pdb
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.dll
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.Model\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.Model\obj\Debug\Sharpenter.ResumeParser.Model.csprojResolveAssemblyReference.cache

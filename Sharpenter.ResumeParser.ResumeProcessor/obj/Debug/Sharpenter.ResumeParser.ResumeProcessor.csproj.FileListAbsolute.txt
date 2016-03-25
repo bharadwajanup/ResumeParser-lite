@@ -29,3 +29,10 @@ C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpent
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.csprojResolveAssemblyReference.cache
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.dll
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\bin\Debug\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\bin\Debug\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.csprojResolveAssemblyReference.cache
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.dll
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.pdb

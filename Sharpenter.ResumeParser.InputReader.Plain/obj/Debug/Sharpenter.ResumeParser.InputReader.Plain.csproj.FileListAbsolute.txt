@@ -26,3 +26,10 @@ C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpent
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.csprojResolveAssemblyReference.cache
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
 C:\Users\Janice\Documents\Visual Studio 2015\Projects\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.dll
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\bin\Debug\Sharpenter.ResumeParser.Model.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.csprojResolveAssemblyReference.cache
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.dll
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.InputReader.Plain\obj\Debug\Sharpenter.ResumeParser.InputReader.Plain.pdb

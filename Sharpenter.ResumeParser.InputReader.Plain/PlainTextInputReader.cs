@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using Sharpenter.ResumeParser.Model;
+using System.Text.RegularExpressions;
 
 namespace Sharpenter.ResumeParser.InputReader.Plain
 {
@@ -18,10 +19,26 @@ namespace Sharpenter.ResumeParser.InputReader.Plain
             {
                 while (!reader.EndOfStream)
                 {
-                    lines.Add(reader.ReadLine());
+                    var line = reader.ReadLine();
+                    var lineArray = line.Split('\t');
+                    foreach(var l in lineArray)
+                    {
+                        
+                        if (!string.IsNullOrEmpty(preserveAlphaNumeric(l)))
+                            lines.Add(l.Trim());
+                    }
+                    
                 }
             }
             return lines;
+        }
+
+        public string preserveAlphaNumeric(string str)
+        {
+            Regex rgx = new Regex(@"[^A-Za-z0-9~!#$^&*()_+|`\-=\\{}:"">?<\[\];',./ ]");
+            str = rgx.Replace(str, "");
+            str = str.Trim();
+            return str;
         }
     }
 }
