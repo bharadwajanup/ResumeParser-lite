@@ -1,9 +1,10 @@
 ﻿using System;
 using System.IO;
 using Sharpenter.ResumeParser.Model;
-using Sharpenter.ResumeParser.Model.Exceptions;
 using Sharpenter.ResumeParser.ResumeProcessor.Parsers;
 using Sharpenter.ResumeParser.ResumeProcessor.Helpers;
+using Sharpenter.ResumeParser.InputReader.Plain;
+using Sharpenter.ResumeParser.Model.Exceptions;
 
 namespace Sharpenter.ResumeParser.ResumeProcessor
 {
@@ -20,8 +21,11 @@ namespace Sharpenter.ResumeParser.ResumeProcessor
             }
 
             _outputFormatter = outputFormatter;
-            IInputReaderFactory inputReaderFactory = new InputReaderFactory(new ConfigFileApplicationSettingsAdapter());
-            _inputReaders = inputReaderFactory.LoadInputReaders();
+            // IInputReaderFactory inputReaderFactory = new InputReaderFactory(new ConfigFileApplicationSettingsAdapter());
+            //_inputReaders = inputReaderFactory.LoadInputReaders();
+
+            _inputReaders = new PlainTextInputReader() as IInputReader;
+
         }
 
         public string Process(string location)

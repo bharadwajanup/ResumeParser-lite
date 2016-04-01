@@ -30,8 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\packages\Newtonsoft.Json.8.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -67,6 +68,23 @@
     <Compile Include="ResumeProcessor.cs" />
     <Compile Include="SectionExtractor.cs" />
     <Compile Include="SectionMatchingService.cs" />
+    <Compile Include="Sharpenter.ResumeParser.InputReader.Plain\PlainTextInputReader.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\Education.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\Exceptions\NotSupportedResumeTypeException.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\Exceptions\ResumeParserException.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\IApplicationSettings.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\IInputReader.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\IInputReaderFactory.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\InputReaderBase.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\IOutputFormatter.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\Period.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\Position.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\Project.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\Resume.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\Section.cs" />
+    <Compile Include="Sharpenter.ResumeParser.Model\SectionType.cs" />
+    <Compile Include="Sharpenter.ResumeParser.OutputFormatter.Json\HyphenNameSerializer.cs" />
+    <Compile Include="Sharpenter.ResumeParser.OutputFormatter.Json\JsonOutputFormatter.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Data\FirstName.txt" />
@@ -79,13 +97,10 @@
     <EmbeddedResource Include="Data\Countries.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sharpenter.ResumeParser.Model\Sharpenter.ResumeParser.Model.csproj">
-      <Project>{48d5db4a-3c27-4b5e-8b42-4cda14aa8386}</Project>
-      <Name>Sharpenter.ResumeParser.Model</Name>
-    </ProjectReference>
+    <EmbeddedResource Include="Data\USStates.txt" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Data\USStates.txt" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

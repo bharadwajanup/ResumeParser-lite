@@ -3,18 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpenter.ResumeParser.InputReader.Plain", "Sharpenter.ResumeParser.InputReader.Plain\Sharpenter.ResumeParser.InputReader.Plain.csproj", "{F47923DD-1308-4B46-B843-58A2FB5455B1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpenter.ResumeParser.Model", "Sharpenter.ResumeParser.Model\Sharpenter.ResumeParser.Model.csproj", "{48D5DB4A-3C27-4B5E-8B42-4CDA14AA8386}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpenter.ResumeParser.OutputFormatter.Json", "Sharpenter.ResumeParser.OutputFormatter.Json\Sharpenter.ResumeParser.OutputFormatter.Json.csproj", "{F640B9C6-7D04-4DA0-A620-4C8EC8A1EB57}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpenter.ResumeParser.ResumeProcessor", "Sharpenter.ResumeParser.ResumeProcessor\Sharpenter.ResumeParser.ResumeProcessor.csproj", "{4E7AD443-8F56-4AA1-9476-664E35CEF55C}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ResumeParser-lite(1)", "ResumeParser-lite\", "{B7807269-B692-48DF-B756-2F6A41195436}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
-		ProjectReferences = "{48d5db4a-3c27-4b5e-8b42-4cda14aa8386}|Sharpenter.ResumeParser.Model.dll;{f640b9c6-7d04-4da0-a620-4c8ec8a1eb57}|Sharpenter.ResumeParser.OutputFormatter.Json.dll;{4e7ad443-8f56-4aa1-9476-664e35cef55c}|Sharpenter.ResumeParser.ResumeProcessor.dll;"
+		ProjectReferences = "{4e7ad443-8f56-4aa1-9476-664e35cef55c}|Sharpenter.ResumeParser.ResumeProcessor.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_57436"
 		Debug.AspNetCompiler.PhysicalPath = "ResumeParser-lite\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57436\"
@@ -39,18 +33,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F47923DD-1308-4B46-B843-58A2FB5455B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F47923DD-1308-4B46-B843-58A2FB5455B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F47923DD-1308-4B46-B843-58A2FB5455B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F47923DD-1308-4B46-B843-58A2FB5455B1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{48D5DB4A-3C27-4B5E-8B42-4CDA14AA8386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48D5DB4A-3C27-4B5E-8B42-4CDA14AA8386}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48D5DB4A-3C27-4B5E-8B42-4CDA14AA8386}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48D5DB4A-3C27-4B5E-8B42-4CDA14AA8386}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F640B9C6-7D04-4DA0-A620-4C8EC8A1EB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F640B9C6-7D04-4DA0-A620-4C8EC8A1EB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F640B9C6-7D04-4DA0-A620-4C8EC8A1EB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F640B9C6-7D04-4DA0-A620-4C8EC8A1EB57}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4E7AD443-8F56-4AA1-9476-664E35CEF55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4E7AD443-8F56-4AA1-9476-664E35CEF55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E7AD443-8F56-4AA1-9476-664E35CEF55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
