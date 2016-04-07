@@ -69,6 +69,7 @@
     <Compile Include="SectionExtractor.cs" />
     <Compile Include="SectionMatchingService.cs" />
     <Compile Include="Sharpenter.ResumeParser.InputReader.Plain\PlainTextInputReader.cs" />
+    <Compile Include="Sharpenter.ResumeParser.InputReader.Plain\StringInputReader.cs" />
     <Compile Include="Sharpenter.ResumeParser.Model\Education.cs" />
     <Compile Include="Sharpenter.ResumeParser.Model\Exceptions\NotSupportedResumeTypeException.cs" />
     <Compile Include="Sharpenter.ResumeParser.Model\Exceptions\ResumeParserException.cs" />

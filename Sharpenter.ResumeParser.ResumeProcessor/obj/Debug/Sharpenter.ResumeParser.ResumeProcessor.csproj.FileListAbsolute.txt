@@ -35,3 +35,4 @@ F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcess
 F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\bin\Debug\Newtonsoft.Json.xml
 F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.dll
 F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.pdb
+F:\Independent Study\New\ResumeParser-lite\Sharpenter.ResumeParser.ResumeProcessor\obj\Debug\Sharpenter.ResumeParser.ResumeProcessor.csprojResolveAssemblyReference.cache
